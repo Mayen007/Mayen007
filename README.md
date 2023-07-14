@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mayen007
-- 👀 I’m interested in web development, front-end development
-- 🌱 I’m currently learning Html, CSS.
+- 👀 I’m interested in web development and front-end development
+- 🌱 I’m currently learning html and CSS.
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me email: 
 
