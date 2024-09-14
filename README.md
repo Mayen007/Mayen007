@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mayen007
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning Bootstrap, JavaScript. Flask, a framework of Python
+- 🌱 I’m currently learning JavaScript and Python 
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me email: 
+- 📫 How to reach me email: alonerpunk@gmail.com
 
 <!---
 Mayen007/Mayen007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
