@@ -13,8 +13,8 @@
 ## Skills
 
 - Languages: JavaScript, Python
-- Frameworks: Bootstrap
-- Tools: Git, Developer Tools, GitHub, VS Code.
+- Frameworks: Bootstrap, Flask, Tailwind
+- Tools: Git, Developer Tools, GitHub, VS Code
 
 ## Projects
 
