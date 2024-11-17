@@ -14,7 +14,7 @@
 
 - Languages: JavaScript, Python
 - Frameworks: Bootstrap
-- Tools: Developer Tools, GitHub, VSCode.
+- Tools: Git, Developer Tools, GitHub, VS Code.
 
 ## Projects
 
