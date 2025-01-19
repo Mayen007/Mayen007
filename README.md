@@ -1,4 +1,4 @@
-# Hi there, I'm Mayen007 👋
+# Hi there, I'm Mayen 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mayen007)
 
