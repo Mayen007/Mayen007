@@ -20,6 +20,7 @@
 
 Here are some of my notable projects:
 
+-[TechBlog](https://tech-blog-t04y.onrender.com/): TechBlog is a modern tech-focused website built with HTML, CSS, JavaScript, and Flask. It keeps users updated on the latest trends, news, and insights in technology with features like a responsive layout, a featured articles section, and sleek navigation.
 - [Age Calculator](https://mayen007.github.io/age-calculator/): The age calculator is a JavaScript project that calculates ages based on input.
 - [Newsletter Signup Form](https://mayen007.github.io/Newsletter-Signup-Form/): The Newsletter-Signup-Form repository is a responsive sign-up form with client-side email validation and a success message modal. Built using HTML, CSS, and JavaScript, it features real-time feedback, error handling, and a polished design for an optimal user experience.
 - [Palmstar](https://palmstar.onrender.com). Palmstar is a comprehensive online travel booking website that allows users to search for and book flights, hotels, and rental cars. The website provides a user-friendly interface and a seamless booking experience, making it easy for users to plan their trips. Built with modern web technologies, Palmstar ensures fast and reliable performance.
