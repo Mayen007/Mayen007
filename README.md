@@ -26,7 +26,7 @@ Git | GitHub | VS Code | Render
 ### [Palmstar - Travel Booking Platform](https://palmstar.onrender.com)
 Comprehensive travel booking system for flights, hotels, and rentals. Features real-time availability checks and a seamless UX built with modern web technologies.
 
-### [TechBlog - Modern Tech Platform](https://tech-blog-t04y.onrender.com/)
+### [TechBlog - Modern Tech Platform](https://techblog-coral.vercel.app)
 Full-stack blog platform with Flask backend. Offers responsive design, article curation, and clean navigation for tech enthusiasts.
 
 ### [EasyPark - Smart Parking Solution](https://easypark-lgqj.onrender.com)
