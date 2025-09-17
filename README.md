@@ -35,6 +35,10 @@ Full-stack blog platform with Flask backend. Offers responsive design, article c
 
 Parking reservation system with live availability updates and secure authentication. Streamlines urban parking management.
 
+## [QRGEN - Qr code generator](https://bluewey.netlify.app)
+
+A professional QR code generator application designed for generating QR codes for diverse use cases like URLs, WiFi credentials, contact cards, and plain text.
+
 ### [Age Calculator](https://mayen007.github.io/age-calculator/)
 
 Interactive tool that calculates precise age from birthdate input using vanilla JavaScript.
