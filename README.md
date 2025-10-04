@@ -4,11 +4,20 @@
 
 ## 🚀 About Me
 
-- 🔭 Software Developer passionate about building solutions and solving complex problems
-- 🌱 Currently mastering JavaScript ecosystems and Tailwind CSS workflows
-- 💡 Enthusiastic about full-stack web development and UI/UX design
-- 📫 Reach me at: [Email](mailto:mayenakech9@gmail.com)
-- ⚡ Fun fact: I thrive on tackling new challenges – whether building age calculators or exploring cutting-edge web concepts, I love creating innovative solutions that push boundaries.
+I am a Software Developer with a strong focus on building scalable solutions and solving complex technical challenges. My expertise spans full-stack web development, with particular emphasis on creating intuitive user experiences and robust backend systems.
+
+**Current Focus:**
+- Advancing proficiency in JavaScript ecosystems and modern CSS frameworks (Tailwind CSS)
+- Developing comprehensive web applications with seamless user experiences
+- Implementing best practices in UI/UX design and responsive web development
+
+**Core Competencies:**
+- Full-stack development using JavaScript, Python, and Flask
+- Frontend design with Bootstrap and Tailwind CSS
+- Building production-ready applications with focus on scalability and maintainability
+
+**Contact:**  
+📧 [mayenakech9@gmail.com](mailto:mayenakech9@gmail.com)
 
 ## 🛠️ Technical Toolkit
 
