@@ -1,53 +1,108 @@
 # Hi there, I'm Mayen 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mayen007)
+![Profile Views](https://komarev.com/ghpvc/?username=Mayen007&color=00d9ff)
+
+---
+
+![Mayen's Banner](./banner.svg)
+
+---
 
 ## 🚀 About Me
 
-- 🔭 Software Developer passionate about building solutions and solving complex problems
-- 🌱 Currently mastering JavaScript ecosystems and Tailwind CSS workflows
-- 💡 Enthusiastic about full-stack web development and UI/UX design
-- 📫 Reach me at: [Email](mailto:mayenakech9@gmail.com)
-- ⚡ Fun fact: I thrive on tackling new challenges – whether building age calculators or exploring cutting-edge web concepts, I love creating innovative solutions that push boundaries.
+I'm a **Full-Stack Web Developer** passionate about building innovative solutions and solving complex problems. I specialize in creating responsive, user-friendly web applications with a focus on clean code and modern development practices.
 
-## 🛠️ Technical Toolkit
+- 🔭 **What I Do:** Build full-stack web applications that solve real-world problems
+- 🌱 **Current Focus:** Advanced JavaScript patterns, React ecosystem, and scalable backend architecture
+- 💡 **Passion:** Full-stack web development, UI/UX design, and exploring emerging web technologies
+- 📫 **Get in Touch:** [mayenakech9@gmail.com](mailto:mayenakech9@gmail.com)
+- ⚡ **Fun Fact:** I thrive on tackling new challenges—whether building smart parking solutions or innovative web concepts—and love creating solutions that push boundaries.
 
-**Frontend**  
-JavaScript | Bootstrap | Tailwind CSS
+---
 
-**Backend**  
-Python | Flask
+## 🛠️ Technical Skills
 
-**Tools & Platforms**  
-Git | GitHub | VS Code | Render
+<details>
+<summary><b>Frontend Development</b></summary>
+
+- **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **Frameworks & Libraries:** React (Hooks, State Management)
+- **Styling:** Tailwind CSS, Bootstrap, CSS Grid & Flexbox
+- **Tools:** Webpack, Vite, npm, yarn
+
+</details>
+
+<details>
+<summary><b>Backend Development</b></summary>
+
+- **Languages:** Python
+- **Frameworks:** Flask, REST APIs
+- **Databases:** SQL, Database Design
+- **Authentication:** Secure user authentication & authorization
+
+</details>
+
+<details>
+<summary><b>Development Tools & Platforms</b></summary>
+
+- **Version Control:** Git, GitHub
+- **Deployment:** Render, Vercel, Netlify
+- **IDEs & Editors:** VS Code
+- **Other:** RESTful API design, responsive web design
+
+</details>
+
+---
 
 ## 🌟 Featured Projects
 
-### [Palmstar - Travel Booking Platform](https://palmstar.onrender.com)
+| Project                                                                     | Description                                                                                                                                                                   | Tech Stack                                          |
+| --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| **[Reviwa](https://reviwa.netlify.app/)** - Smart Waste Management          | Community-driven waste management platform with waste reporting, real-time mapping, eco-points gamification, admin dashboard, and email notifications for sustainable cities. | React, Node.js, MongoDB, Tailwind CSS, Leaflet Maps |
+| **[Palmstar](https://palmstar.onrender.com)** - Travel Booking Platform     | Comprehensive travel booking system with real-time availability for flights, hotels, and rentals. Features seamless UX and modern web technologies.                           | JavaScript, Tailwind CSS, Flask                     |
+| **[TechBlog](https://techblog-coral.vercel.app)** - Modern Tech Platform    | Full-stack blog platform with responsive design, article curation, and clean navigation for tech enthusiasts.                                                                 | Flask, React, Tailwind CSS                          |
+| **[EasyPark](https://easypark-lgqj.onrender.com)** - Smart Parking Solution | Intelligent parking reservation system with live availability updates and secure user authentication.                                                                         | Python, Flask, JavaScript                           |
+| **[QRgen](https://bluewey.netlify.app)** - QR Code Generator                | Professional QR code generator for URLs, WiFi credentials, contact cards, and plain text with an intuitive interface.                                                         | React, JavaScript, Tailwind CSS                     |
+| **[Age Calculator](https://mayen007.github.io/age-calculator/)**            | Interactive age calculator with precise date calculations built with vanilla JavaScript.                                                                                      | JavaScript, HTML5, CSS3                             |
+| **[Rock Paper Scissors](https://github.com/Mayen007/Rock-Paper-Scissors)**  | Interactive game with score tracking and smooth animations.                                                                                                                   | Vanilla JavaScript, CSS Animations                  |
 
-Comprehensive travel booking system for flights, hotels, and rentals. Features real-time availability checks and a seamless UX built with modern web technologies.
-
-### [TechBlog - Modern Tech Platform](https://techblog-coral.vercel.app)
-
-Full-stack blog platform with Flask backend. Offers responsive design, article curation, and clean navigation for tech enthusiasts.
-
-### [EasyPark - Smart Parking Solution](https://easypark-lgqj.onrender.com)
-
-Parking reservation system with live availability updates and secure authentication. Streamlines urban parking management.
-
-### [QRgen - Qr code generator](https://bluewey.netlify.app)
-A professional QR code generator application designed for generating QR codes for diverse use cases like URLs, WiFi credentials, contact cards, and plain text.
-
-### [Age Calculator](https://mayen007.github.io/age-calculator/)
-
-Interactive tool that calculates precise age from birthdate input using vanilla JavaScript.
-
-### [Rock Paper Scissors](https://github.com/Mayen007/Rock-Paper-Scissors)
-
-Interactive game with score tracking and animated UI. Built with vanilla JavaScript and modern CSS animations.
+---
 
 ## 📈 GitHub Insights
 
-![Mayen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayen007&show_icons=true&theme=radical&hide_title=true&width=400)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayen007&layout=compact&theme=radical&width=400)
+![Mayen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayen007&show_icons=true&theme=radical&hide_title=true&width=450&hide=contribs)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayen007&layout=compact&theme=radical&width=450)
+
+</div>
+
+---
+
+## 📌 Featured Stats
+
+- **Portfolio Website:** [makech.netlify.app](https://makech.netlify.app)
+- **Total Repositories:** Check out my [GitHub Profile](https://github.com/Mayen007)
+- **Languages:** JavaScript, Python, HTML5, CSS3
+- **Specialization:** Full-Stack Web Development
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Mayen007-181717?style=flat&logo=github)](https://github.com/Mayen007)
+[![Email](https://img.shields.io/badge/Email-mayenakech9@gmail.com-D14836?style=flat&logo=gmail)](mailto:mayenakech9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/mayenakech)
+
+</div>
+
+---
+
+<div align="center">
+
+**Thanks for visiting my profile! Feel free to reach out or explore my repositories.** 🚀
+
+</div>
