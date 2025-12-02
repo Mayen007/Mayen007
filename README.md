@@ -60,7 +60,7 @@ I'm a **Full-Stack Web Developer** passionate about building innovative solution
 | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | **[Reviwa](https://reviwa.netlify.app/)** - Smart Waste Management          | Community-driven waste management platform with waste reporting, real-time mapping, eco-points gamification, admin dashboard, and email notifications for sustainable cities. | React, Node.js, MongoDB, Tailwind CSS, Leaflet Maps |
 | **[Palmstar](https://palmstar.onrender.com)** - Travel Booking Platform     | Comprehensive travel booking system with real-time availability for flights, hotels, and rentals. Features seamless UX and modern web technologies.                           | JavaScript, Tailwind CSS, Flask                     |
-| **[TechBlog](https://techblog-coral.vercel.app)** - Modern Tech Platform    | Full-stack blog platform with responsive design, article curation, and clean navigation for tech enthusiasts.                                                                 | Flask, React, Tailwind CSS                          |
+| **[TechBlog](https://techblog-zqhv.onrender.com/)** - Modern Tech Platform  | Full-stack blog platform with responsive design, article curation, and clean navigation for tech enthusiasts.                                                                 | Flask, React, Tailwind CSS                          |
 | **[EasyPark](https://easypark-lgqj.onrender.com)** - Smart Parking Solution | Intelligent parking reservation system with live availability updates and secure user authentication.                                                                         | Python, Flask, JavaScript                           |
 | **[QRgen](https://bluewey.netlify.app)** - QR Code Generator                | Professional QR code generator for URLs, WiFi credentials, contact cards, and plain text with an intuitive interface.                                                         | React, JavaScript, Tailwind CSS                     |
 | **[Age Calculator](https://mayen007.github.io/age-calculator/)**            | Interactive age calculator with precise date calculations built with vanilla JavaScript.                                                                                      | JavaScript, HTML5, CSS3                             |
@@ -72,9 +72,9 @@ I'm a **Full-Stack Web Developer** passionate about building innovative solution
 
 <div align="center">
 
-![Mayen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayen007&show_icons=true&theme=radical&hide_title=true&width=450&hide=contribs)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayen007&theme=tokyonight&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayen007&layout=compact&theme=radical&width=450)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayen007&layout=compact&theme=tokyonight&title_color=00d9ff&hide_border=true&langs_count=6)](https://github.com/Mayen007)
 
 </div>
 
