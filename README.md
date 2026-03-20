@@ -18,6 +18,14 @@ Full-stack developer focused on building responsive web applications with clean,
 
 ## Projects
 
+### 🌟 Featured
+
+| Project | Description | Tech Stack |
+| ------- | ----------- | ---------- |
+| [Finance Tracker](./finance-tracker) | Personal finance dashboard — income/expense tracking, budget alerts, and interactive charts with JWT auth | React 18, Flask, SQLAlchemy, Recharts, Tailwind CSS |
+
+### All Projects
+
 | Project                                         | Description                                                                         | Tech Stack                            |
 | ----------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------- |
 | [Reviwa](https://reviwa.netlify.app/)           | Waste management platform with real-time mapping, gamification, and admin dashboard | React, Node.js, MongoDB, Tailwind CSS |
