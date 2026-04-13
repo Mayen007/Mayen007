@@ -1,38 +1,53 @@
-# Mayen Akech
+# Hey, I'm Mayen.
 
-**Full-Stack Web Developer** specializing in React, Flask, and scalable web applications.
+I'm a full-stack developer based in Nairobi. I build things that actually get used —
+waste reporting platforms, parking systems, travel booking apps. Not just portfolio pieces.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-makech.netlify.app-00d9ff?style=flat)](https://makech.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mayenakech-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/mayenakech)
-[![Email](https://img.shields.io/badge/Email-mayenakech9@gmail.com-D14836?style=flat&logo=gmail)](mailto:mayenakech9@gmail.com)
+I work across the MERN stack and Python/Flask, and I'm comfortable going from database schema
+to deployed UI on my own, though I work well with others too. Currently finishing my BSc in IT
+at Mount Kenya University and looking for my first professional role.
 
-## About
+**[Portfolio](https://makech.netlify.app) · [LinkedIn](https://linkedin.com/in/mayen-akech) · [Email](mailto:mayenakech9@gmail.com)**
 
-Full-stack developer focused on building responsive web applications with clean, maintainable code. Currently advancing React patterns and scalable backend architecture. Open to collaboration and new opportunities.
+---
 
-## Tech Stack
+## Stack
 
-**Frontend:** React • JavaScript (ES6+) • Tailwind CSS • HTML5 • CSS3  
-**Backend:** Python • Flask • REST APIs • SQL  
-**Tools:** Git • Webpack • Vite • VS Code • Render • Vercel • Netlify
+```
+frontend   React · JavaScript · Tailwind CSS · Framer Motion · Vite
+backend    Node.js · Express · Python · Flask · REST APIs · JWT
+databases  MongoDB · PostgreSQL · Firebase
+tools      Git · Vercel · Netlify · Render · Cloudinary
+```
 
-## Projects
+---
 
-| Project                                         | Description                                                                         | Tech Stack                            |
-| ----------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------- |
-| [Reviwa](https://reviwa.netlify.app/)           | Waste management platform with real-time mapping, gamification, and admin dashboard | React, Node.js, MongoDB, Tailwind CSS |
-| [Palmstar](https://palmstar.onrender.com)       | Travel booking system with real-time availability for flights and hotels            | Flask, JavaScript, Tailwind CSS       |
-| [TechBlog](https://techblog-zqhv.onrender.com/) | Full-stack blog platform with responsive design and article curation                | Flask, React, Tailwind CSS            |
-| [EasyPark](https://easypark-lgqj.onrender.com)  | Smart parking reservation system with live availability                             | Python, Flask, JavaScript             |
-| [Read It Later](https://readitt.netlify.app/)   | Article bookmarking with browser extension, JWT auth, and metadata extraction       | React, Node.js, Express, MongoDB      |
-| [QRgen](https://bluewey.netlify.app)            | QR code generator for URLs, WiFi, and contact cards                                 | React, JavaScript, Tailwind CSS       |
+## Things I've built
 
-## GitHub Stats
+**[Reviwa](https://reviwa.netlify.app)**
+Community waste management — report waste by location, earn eco-points, admins manage it all.
+`React · Node.js · MongoDB · Leaflet · Cloudinary`
 
-<div align="center">
+**[Palmstar](https://palmstar.onrender.com)**
+Travel booking with real-time availability for flights and hotels.
+`Flask · Python · JavaScript · Tailwind CSS`
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayen007&theme=tokyonight&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)
+**[EasyPark](https://easypark-lgqj.onrender.com)**
+Smart parking reservations with live slot availability.
+`Python · Flask · JavaScript`
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayen007&layout=compact&theme=tokyonight&title_color=00d9ff&hide_border=true&langs_count=6)](https://github.com/Mayen007)
+**[Read It Later](https://readitt.netlify.app)**
+Save articles from anywhere via Chrome Extension. Automatic metadata extraction, JWT auth, search.
+`React · Express · MongoDB · Cheerio`
 
-</div>
+**[TechBlog](https://techblog-zqhv.onrender.com)**
+Full-stack blog platform — write, publish, read.
+`Flask · React · Tailwind CSS`
+
+**[QRgen](https://bluewey.netlify.app)**
+QR code generator for URLs, WiFi credentials, and contact cards.
+`React · JavaScript · Tailwind CSS`
+
+---
+
+Open to junior roles and internships — mayenakech9@gmail.com
