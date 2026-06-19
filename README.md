@@ -1,11 +1,12 @@
 # Hey, I'm Mayen.
 
-I'm a full-stack developer based in Nairobi. I build things that actually get used —
-waste reporting platforms, parking systems, travel booking apps. Not just portfolio pieces.
+I'm a full-stack developer based in Nairobi, with a frontend focus. I build things that
+actually get used — waste reporting platforms, parking systems, travel booking apps. Not
+just portfolio pieces.
 
-I work across the MERN stack and Python/Flask, and I'm comfortable going from database schema
-to deployed UI on my own, though I work well with others too. Currently finishing my BSc in IT
-at Mount Kenya University and looking for my first professional role.
+I work across the MERN stack and Python/Flask, comfortable going from database schema to
+deployed UI on my own, though I work well with others too. Currently finishing my BSc in IT
+at Mount Kenya University (2027) and looking for my first professional role.
 
 **[Portfolio](https://makech.netlify.app) · [LinkedIn](https://linkedin.com/in/mayen-akech) · [Email](mailto:mayenakech9@gmail.com)**
 
@@ -13,12 +14,17 @@ at Mount Kenya University and looking for my first professional role.
 
 ## Stack
 
-```
-frontend   React · JavaScript · Tailwind CSS · Framer Motion · Vite
-backend    Node.js · Express · Python · Flask · REST APIs · JWT
-databases  MongoDB · PostgreSQL · Firebase
-tools      Git · Vercel · Netlify · Render · Cloudinary
-```
+**Frontend**  
+React · JavaScript · Tailwind CSS · Framer Motion · Vite
+
+**Backend**  
+Node.js · Express · Python · Flask · REST APIs · JWT
+
+**Databases**  
+MongoDB · PostgreSQL · Firebase
+
+**Tools**  
+Git · Vercel · Netlify · Render · Cloudinary
 
 ---
 
@@ -27,6 +33,10 @@ tools      Git · Vercel · Netlify · Render · Cloudinary
 **[Reviwa](https://reviwa.netlify.app)**
 Community waste management — report waste by location, earn eco-points, admins manage it all.
 `React · Node.js · MongoDB · Leaflet · Cloudinary`
+
+**[MKUSSSA](https://mkusssa.org)**
+Full-stack site for my university's South Sudanese students' association.
+`React · Node.js · MongoDB · Cloudinary`
 
 **[Palmstar](https://palmstar.onrender.com)**
 Travel booking with real-time availability for flights and hotels.
